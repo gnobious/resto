@@ -41,7 +41,7 @@ const generateOrder = (items) => {
             id: item.id,
             qntty: item.qntty
         }
-    });
+    })
     return newOrder;
 }
 

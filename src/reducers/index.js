@@ -7,7 +7,7 @@ const initialState = {
 }
 
 const reducer = (state = initialState, action) => {
-    console.log(state);
+    //console.log(state);
     switch (action.type) {
         case 'MENU_LOADED':
             return {

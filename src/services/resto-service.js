@@ -12,7 +12,7 @@ export default class RestoService {
     }
 
     async getMenuItems () {
-        return await this.getResource(`/menu/`);
+        return await this.getResource('/menu/');
     }
 
     async getItem(id) {
@@ -35,7 +35,7 @@ export default class RestoService {
         const response = await fetch(`${this._apiBase}/orders`, {
             method: 'POST',
             headers: {
-                'Content-Tye': 'application/json;charset=utf-8'
+                'Content-Type': 'application/json;charset=utf-8'
             },
             body: JSON.stringify(newOrder)
         });

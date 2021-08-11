@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/resto-spa/static/css/main.c43eeeb2.chunk.css",
-    "main.js": "/resto-spa/static/js/main.411008d7.chunk.js",
-    "main.js.map": "/resto-spa/static/js/main.411008d7.chunk.js.map",
+    "main.css": "/resto-spa/static/css/main.20f719c2.chunk.css",
+    "main.js": "/resto-spa/static/js/main.ddb52744.chunk.js",
+    "main.js.map": "/resto-spa/static/js/main.ddb52744.chunk.js.map",
     "runtime~main.js": "/resto-spa/static/js/runtime~main.24ef8a9f.js",
     "runtime~main.js.map": "/resto-spa/static/js/runtime~main.24ef8a9f.js.map",
     "static/js/2.48060bdf.chunk.js": "/resto-spa/static/js/2.48060bdf.chunk.js",
     "static/js/2.48060bdf.chunk.js.map": "/resto-spa/static/js/2.48060bdf.chunk.js.map",
     "index.html": "/resto-spa/index.html",
-    "precache-manifest.bc3756f92bc08f0ee6478b7ca7c7034f.js": "/resto-spa/precache-manifest.bc3756f92bc08f0ee6478b7ca7c7034f.js",
+    "precache-manifest.23240beb5425b1cdf8ad6e7319b902ce.js": "/resto-spa/precache-manifest.23240beb5425b1cdf8ad6e7319b902ce.js",
     "service-worker.js": "/resto-spa/service-worker.js",
-    "static/css/main.c43eeeb2.chunk.css.map": "/resto-spa/static/css/main.c43eeeb2.chunk.css.map",
+    "static/css/main.20f719c2.chunk.css.map": "/resto-spa/static/css/main.20f719c2.chunk.css.map",
     "static/media/food-bg.jpg": "/resto-spa/static/media/food-bg.698e5e80.jpg",
     "static/media/shopping-cart-solid.svg": "/resto-spa/static/media/shopping-cart-solid.701d6d1d.svg"
   }

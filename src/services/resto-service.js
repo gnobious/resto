@@ -1,5 +1,5 @@
 export default class RestoService {
-    _apiBase = 'https://my-json-server.typicode.com/gnobious/resto-spa-db';
+    _apiBase = 'https://my-json-server.typicode.com/rimerian/resto-spa-db';
 
     async getResource(url) {
         const res = await fetch(`${this._apiBase}${url}`);

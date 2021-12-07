@@ -38,7 +38,7 @@ In this project, I study and practice the following things:
 
 <h2 id="demo">Demo 🎥</h2>
 
-The completed project can be viewed [here](https://gnobious.github.io/resto-spa/ "demo url")
+The completed project can be viewed [here](https://rimerian.github.io/resto-spa/ "demo url")
 
 <h2 id="how-to-use"> How to Use 🔧</h2>
 
@@ -55,7 +55,7 @@ From your command line, first clone "resto-spa":
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gnobious/resto-spa.git
+$ git clone https://github.com/rimerian/resto-spa.git
 
 # Go into the repository
 $ cd resto-spa
@@ -131,7 +131,7 @@ The data for the correct operation of the SPA is stored in JSON and processed in
 
 To test the application locally, a [Json-server](https://www.npmjs.com/package/json-server) from the **npm** library was used.
 
-The work of the project in the network is provided by the [service](https://my-json-server.typicode.com), which allows you to work with `db.json` hosted in the [github repository](https://github.com/gnobious/resto-spa-db.git)
+The work of the project in the network is provided by the [service](https://my-json-server.typicode.com), which allows you to work with `db.json` hosted in the [github repository](https://github.com/rimerian/resto-spa-db.git)
 
 ### Structure
 
